@@ -3,4 +3,5 @@ hello world
 890808
 Git has a mutable index called stage.
 Git tracks changes of files.
-已推送到远程
+remote already.
+Creating a new branch is quick.
